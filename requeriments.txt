@@ -1,0 +1,9 @@
+# Dependencias principales
+opencv-python>=4.5.0
+numpy>=1.19.0
+
+# Para crear el ejecutable (opcional)
+pyinstaller>=6.0.0
+
+# Nota: Tkinter ya viene incluido con la instalación estándar de Python
+# y no necesita ser instalado mediante pip
